@@ -1,4 +1,4 @@
-package singleresponsability;
+package srp;
 
 public class BookV2 {
 

@@ -1,4 +1,4 @@
-package singleresponsability;
+package srp;
 
 // A separate class that is concerned only with printing
 public class BookPrinter {
